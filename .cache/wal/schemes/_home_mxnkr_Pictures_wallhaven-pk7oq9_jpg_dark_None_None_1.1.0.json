@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/mxnkr/Pictures/wallhaven-pk7oq9.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1c1616",
+        "foreground": "#ede5e1",
+        "cursor": "#ede5e1"
+    },
+    "colors": {
+        "color0": "#1c1616",
+        "color1": "#A6A2AC",
+        "color2": "#DDB3A2",
+        "color3": "#ECCAB6",
+        "color4": "#AFABCA",
+        "color5": "#C1BFCC",
+        "color6": "#D1CED0",
+        "color7": "#ede5e1",
+        "color8": "#a5a09d",
+        "color9": "#A6A2AC",
+        "color10": "#DDB3A2",
+        "color11": "#ECCAB6",
+        "color12": "#AFABCA",
+        "color13": "#C1BFCC",
+        "color14": "#D1CED0",
+        "color15": "#ede5e1"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/mxnkr/Pictures/thumb-1920-805530.png",
+    "alpha": "100",
+    "special": {
+        "background": "#3a2323",
+        "foreground": "#e3ccc5",
+        "cursor": "#e3ccc5"
+    },
+    "colors": {
+        "color0": "#3a2323",
+        "color1": "#A58D6C",
+        "color2": "#DC9D6A",
+        "color3": "#FADA6F",
+        "color4": "#946F86",
+        "color5": "#BFAD94",
+        "color6": "#F28781",
+        "color7": "#e3ccc5",
+        "color8": "#9e8e89",
+        "color9": "#A58D6C",
+        "color10": "#DC9D6A",
+        "color11": "#FADA6F",
+        "color12": "#946F86",
+        "color13": "#BFAD94",
+        "color14": "#F28781",
+        "color15": "#e3ccc5"
+    }
+}

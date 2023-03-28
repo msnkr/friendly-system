@@ -1,0 +1,24 @@
+wallpaper: "/home/mxnkr/Pictures/IMG_2366.png"
+
+special:
+    background: "#000000"
+    foreground: "#f6f6f5"
+    cursor: "#f6f6f5"
+
+colors:
+    color0: "#000000"
+    color1: "#ACC5E0"
+    color2: "#B1CDEB"
+    color3: "#E8C0BC"
+    color4: "#CCD8E9"
+    color5: "#D6E7F5"
+    color6: "#FCFCCA"
+    color7: "#f6f6f5"
+    color8: "#acacab"
+    color9: "#ACC5E0"
+    color10: "#B1CDEB"
+    color11: "#E8D5D3"
+    color12: "#CCD8E9"
+    color13: "#D6E7F5"
+    color14: "#F3F8FC"
+    color15: "#f6f6f5"

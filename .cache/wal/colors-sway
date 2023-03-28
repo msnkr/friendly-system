@@ -1,0 +1,21 @@
+set $wallpaper /home/mxnkr/Pictures/IMG_2366.png
+
+set $background #000000
+set $foreground #f6f6f5
+
+set $color0 #000000
+set $color1 #ACC5E0
+set $color2 #B1CDEB
+set $color3 #E8C0BC
+set $color4 #CCD8E9
+set $color5 #D6E7F5
+set $color6 #FCFCCA
+set $color7 #f6f6f5
+set $color8 #acacab
+set $color9 #ACC5E0
+set $color10 #B1CDEB
+set $color11 #E8D5D3
+set $color12 #CCD8E9
+set $color13 #D6E7F5
+set $color14 #F3F8FC
+set $color15 #f6f6f5

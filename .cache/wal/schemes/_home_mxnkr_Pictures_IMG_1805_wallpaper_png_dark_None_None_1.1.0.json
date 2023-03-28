@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/mxnkr/Pictures/IMG_1805_wallpaper.png",
+    "alpha": "100",
+    "special": {
+        "background": "#1f1819",
+        "foreground": "#e9e0e0",
+        "cursor": "#e9e0e0"
+    },
+    "colors": {
+        "color0": "#1f1819",
+        "color1": "#3C5086",
+        "color2": "#526495",
+        "color3": "#898A9F",
+        "color4": "#A59398",
+        "color5": "#D9ABA3",
+        "color6": "#B7C0D0",
+        "color7": "#e9e0e0",
+        "color8": "#a39c9c",
+        "color9": "#3C5086",
+        "color10": "#526495",
+        "color11": "#898A9F",
+        "color12": "#A59398",
+        "color13": "#D9ABA3",
+        "color14": "#B7C0D0",
+        "color15": "#e9e0e0"
+    }
+}

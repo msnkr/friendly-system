@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/mxnkr/Pictures/wallhaven-yx71yd.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#241b3a",
+        "foreground": "#e7e5e9",
+        "cursor": "#e7e5e9"
+    },
+    "colors": {
+        "color0": "#241b3a",
+        "color1": "#DAA4A8",
+        "color2": "#AAA9CE",
+        "color3": "#CEB4CF",
+        "color4": "#CDC8CC",
+        "color5": "#CFCFD3",
+        "color6": "#F2D2D2",
+        "color7": "#e7e5e9",
+        "color8": "#a1a0a3",
+        "color9": "#DAA4A8",
+        "color10": "#AAA9CE",
+        "color11": "#CEB4CF",
+        "color12": "#CDC8CC",
+        "color13": "#CFCFD3",
+        "color14": "#F2D2D2",
+        "color15": "#e7e5e9"
+    }
+}

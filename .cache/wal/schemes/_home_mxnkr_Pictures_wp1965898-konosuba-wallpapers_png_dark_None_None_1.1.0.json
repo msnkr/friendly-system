@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/mxnkr/Pictures/wp1965898-konosuba-wallpapers.png",
+    "alpha": "100",
+    "special": {
+        "background": "#180f10",
+        "foreground": "#f6eee3",
+        "cursor": "#f6eee3"
+    },
+    "colors": {
+        "color0": "#180f10",
+        "color1": "#BB4F47",
+        "color2": "#DE9F5F",
+        "color3": "#927D81",
+        "color4": "#C4A69A",
+        "color5": "#FBD1A8",
+        "color6": "#EAD6CA",
+        "color7": "#f6eee3",
+        "color8": "#aca69e",
+        "color9": "#BB4F47",
+        "color10": "#DE9F5F",
+        "color11": "#927D81",
+        "color12": "#C4A69A",
+        "color13": "#FBD1A8",
+        "color14": "#EAD6CA",
+        "color15": "#f6eee3"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/mxnkr/Pictures/wallhaven-rdwjeq.png",
+    "alpha": "100",
+    "special": {
+        "background": "#2b1e2b",
+        "foreground": "#e7e4f5",
+        "cursor": "#e7e4f5"
+    },
+    "colors": {
+        "color0": "#2b1e2b",
+        "color1": "#817FB6",
+        "color2": "#9B95A4",
+        "color3": "#A3A7E3",
+        "color4": "#C0BCDF",
+        "color5": "#DCD8DC",
+        "color6": "#DED5FC",
+        "color7": "#e7e4f5",
+        "color8": "#a19fab",
+        "color9": "#817FB6",
+        "color10": "#9B95A4",
+        "color11": "#A3A7E3",
+        "color12": "#C0BCDF",
+        "color13": "#DCD8DC",
+        "color14": "#DED5FC",
+        "color15": "#e7e4f5"
+    }
+}

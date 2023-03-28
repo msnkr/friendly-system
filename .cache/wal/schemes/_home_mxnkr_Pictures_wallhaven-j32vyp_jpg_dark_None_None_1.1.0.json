@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/mxnkr/Pictures/wallhaven-j32vyp.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#282227",
+        "foreground": "#e1eaf1",
+        "cursor": "#e1eaf1"
+    },
+    "colors": {
+        "color0": "#282227",
+        "color1": "#D2AF9C",
+        "color2": "#A8C5BB",
+        "color3": "#DFD1AF",
+        "color4": "#A1D9E8",
+        "color5": "#B0D4F6",
+        "color6": "#DDE1DB",
+        "color7": "#e1eaf1",
+        "color8": "#9da3a8",
+        "color9": "#D2AF9C",
+        "color10": "#A8C5BB",
+        "color11": "#DFD1AF",
+        "color12": "#A1D9E8",
+        "color13": "#B0D4F6",
+        "color14": "#DDE1DB",
+        "color15": "#e1eaf1"
+    }
+}

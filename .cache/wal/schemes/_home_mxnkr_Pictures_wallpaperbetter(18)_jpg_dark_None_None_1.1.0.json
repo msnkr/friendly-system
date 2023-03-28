@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/mxnkr/Pictures/wallpaperbetter(18).jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0d0c0f",
+        "foreground": "#bcb5b7",
+        "cursor": "#bcb5b7"
+    },
+    "colors": {
+        "color0": "#0d0c0f",
+        "color1": "#6C4A37",
+        "color2": "#333748",
+        "color3": "#463C48",
+        "color4": "#3D4354",
+        "color5": "#5F525A",
+        "color6": "#91675B",
+        "color7": "#bcb5b7",
+        "color8": "#837e80",
+        "color9": "#6C4A37",
+        "color10": "#333748",
+        "color11": "#463C48",
+        "color12": "#3D4354",
+        "color13": "#5F525A",
+        "color14": "#91675B",
+        "color15": "#bcb5b7"
+    }
+}
