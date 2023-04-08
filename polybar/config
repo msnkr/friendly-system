@@ -388,7 +388,7 @@ format-warn = <ramp> <label-warn>
 
 label = %temperature-c%
 label-warn = %temperature-c%
-label-warn-foreground = #FFFF00
+label-warn-foreground = #E81500
 label-foreground = ${colors.foreground}
 
 ramp-0 = 
